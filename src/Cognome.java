@@ -14,6 +14,6 @@ public class Cognome
 		frigo1.calcolo();
 		frigo2.calcolo();
 	}
-	
+	//prova
 	
 }
